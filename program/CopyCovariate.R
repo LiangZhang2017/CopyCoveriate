@@ -80,7 +80,7 @@ sink(clean,append=TRUE)
 sink(clean,append=TRUE,type="message") # get error reports also
 options(width=120)
 
-# cat(length(val$Outcome))
+# cat(length(val$Outcome))yhhhyyhyhy
                                for (i in unique(val2$Anon.Student.Id)){
                                  val$covariate[val$Anon.Student.Id==i,]<-val2$value[val2$Anon.Student.Id==i]}
                                
