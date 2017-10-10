@@ -4,7 +4,7 @@ ech<-FALSE
 args <- commandArgs(trailingOnly = TRUE)
 # Enable if debugging
 
-#print(args)
+#print(args)4444r44r
 
 # initialize variables
 inputFile = NULL
