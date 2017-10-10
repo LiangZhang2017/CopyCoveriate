@@ -8,6 +8,9 @@ args <- commandArgs(trailingOnly = TRUE)
 
 # initialize variables
 inputFile = NULL
+
+
+deedef    jfnjf  c  fgtggyhyh
 workingDirectory = NULL
 componentDirectory = NULL
 flags = NULL
